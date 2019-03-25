@@ -1,6 +1,6 @@
-print("""
-# Fahrenheit to Celsius conversion program
-fahren = float(input('Enter degrees Fahrenheit: '))
-celsius = (fahren - 32) * 5 / 9
-print(fahren, 'degrees Fahrenheit equals', format(celsius, '.1f'), 'degrees Celsius')
-""")
+print("# Fahrenheit to Celsius conversion program")
+print("")
+print("fahren = float(input('Enter degrees Fahrenheit: '))")
+print("celsius = (fahren - 32) * 5 / 9")
+print("print(fahren, 'degrees Fahrenheit equals',")
+print("      format(celsius, '.1f'), 'degrees Celsius')")
