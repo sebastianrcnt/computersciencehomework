@@ -1,7 +1,10 @@
+# get input
 ans = int(input('Enter the taxable income in USD: '))
 
+# set due
 due = 0.0
 
+# case seperation
 if ans < 750:
     due = ans * 0.01
 elif 750 <= ans < 2250:
@@ -15,4 +18,5 @@ elif 5250 <= ans < 7000:
 elif ans >= 7000:
     due = 230.00 + 0.06 * (ans - 7000)
 
+# print result
 print('Tax due: %.2f USD' %  due)
