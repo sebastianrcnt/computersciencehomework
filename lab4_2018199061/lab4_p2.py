@@ -1,17 +1,9 @@
-num1 = int(input('Your number: '))
-num2 = int(input('Your number: '))
-num3 = int(input('Your number: '))
-num4 = int(input('Your number: '))
-
+num = 1
 sum = 0
+while num != 0:
+    num = int(input('Your number: '))
+    if num <= 100:
+        sum += num
+    print(sum)
 
-if num1 < 100:
-    sum += num1
-if num2 < 100:
-    sum += num2
-if num3 < 100:
-    sum += num3
-if num4 < 100:
-    sum += num4
-
-print('Sum: %d' % sum)
+print(f'Sum: {sum}')
