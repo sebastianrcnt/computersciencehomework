@@ -4,7 +4,7 @@ ans = int(input('Enter the taxable income in USD: '))
 # set due
 due = 0.0
 
-# case seperation
+# case seperation, flow control
 if ans < 750:
     due = ans * 0.01
 elif 750 <= ans < 2250:

@@ -9,7 +9,7 @@ print('Enter (C) to convert Celsius to Fahrenheit')
 which = input('Enter selection: ')
 
 # Check whether selection is either F or C
-while which != 'F' and which != 'C':
+while which != 'F' and which != 'C': # if it is not, keep asking user to enter F or C
     which = input("Please enter 'F' or 'C': ")
 
 temp = int(input('Enter temperature to convert: '))
