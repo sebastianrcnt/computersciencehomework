@@ -1,12 +1,10 @@
-res = []
-ans = 1
+res = [] # variable to store integers
 while True:
     ans = int(input('Enter an integer: '))
     if ans == 0:
-        break
-    if ans <= 100:
+        break # escape loop when ans is 0
+    if ans <= 100: # under 100 append
         res.append(ans)
-    else:
+    else: # over 100 append 'over'
         res.append('over')
-
-print(res)
+print(res) # print list

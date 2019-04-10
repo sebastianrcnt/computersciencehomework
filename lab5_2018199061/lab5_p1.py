@@ -1,14 +1,10 @@
-max_num = 0
-ans = float(input("Enter a number: "))
-if ans <= 0:
+ans = float(input("Enter a number: "))  # get first input
+if ans <= 0: # if first input not positive number
     print('No positive number was entered')
-else:
-    while True:
-        ans2 = float(input("Enter a number: "))
-        ans = max(ans, ans2)
-        if ans2 <= 0:
+else: # if first input is positive number
+    while True: # infinite loop.
+        ans2 = float(input("Enter a number: ")) 
+        ans = max(ans, ans2) # ans will store the maximum number among the numbers that user typed in
+        if ans2 <= 0: # break if input is not positive number
             break
-    if ans <= 0:
-        print('No positive number was entered')
-    else:
-        print('The largest number entered was {0:.2f}'.format(ans)) # 수정 필요
+    print('The largest number entered was {0:.2f}'.format(ans)) # format and print 'ans'
