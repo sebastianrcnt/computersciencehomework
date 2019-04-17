@@ -14,34 +14,31 @@ lastName = anssplit[1]
 
 # Count spaces until the start of First name
 for i in range(len(ans)):
-    print(f'part1 i : {i}, ans[i]: {ans[i]}')
+    # find the position where a non-space character appears, which is the starting index of the first name
     if ans[i] != ' ':
         firstNameStartIndex = i
         break
 
-# Count spaces from First name to the end of First name.
-for i in range(firstNameStartIndex, len(ans)):
-    print(f'part2 i : {i}, ans[i]: {ans[i]}')
+# Count the start and end of First name.
+for i in range(firstNameStartIndex, len(ans)): # i starts from the starting index of the first name which is obtained above.
+    # find the position where a space character appears, which is the index of the end of the first name - 1
     if ans[i] == ' ':
         firstNameEndIndex = i - 1
         break
 
 # Count spaces from the end of first name until the start of Last name
 for i in range(firstNameEndIndex + 1, len(ans)):
-    print(f'part3 i : {i}, ans[i]: {ans[i]}')
     if ans[i] != ' ':
         lastNameStartIndex = i
         break
 
+# Count the start and end of Last name.
 for i in range(lastNameStartIndex, len(ans)):
-    print(f'part4 i : {i}, ans[i]: {ans[i]}')
-    if ans[i] == ' ':
+    if ans[i] == ' ':  # if there is space after the last name
         lastNameEndIndex = i - 1
         break
-    elif i == len(ans):
+    elif i == len(ans):  # if there is no space after the last name(=if i reaches len(ans) so that this loop ends without meeting a space)
         lastNameEndIndex = len(ans)
 
-print(f'First Name index: {firstNameStartIndex}~{firstNameEndIndex}')
-print(f'First Name index: {lastNameStartIndex}~{lastNameEndIndex}')
-print(f'First Name : {firstName}, Last Name : {lastName}')
-print(f'{firstName}, {lastName[0]}.')
+# Print the result in the given format
+print(firstName + ', ' + lastName[0] + '.')
