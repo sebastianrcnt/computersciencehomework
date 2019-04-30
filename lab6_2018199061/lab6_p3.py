@@ -23,7 +23,7 @@ password_in = input('Enter password: ')
 # Check whether password is valid
 counter = [0, 0, 0]  # [alphabet, non-alphabet, digit]
 
-# Count appearences of alphabet, non alphabet, and digit
+# Count appearances of alphabet, non alphabet, and digit
 # Reject when there is one or more character that is not among them.
 for i in password_in:
     if i in alphabet:
