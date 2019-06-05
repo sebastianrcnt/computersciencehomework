@@ -1,4 +1,4 @@
-def zerocheck(n1, n2, n3):
+def zeroCheck(n1, n2, n3):
     """
     Input: n1, n2, n3: integers
     Returns True when any of the three integers are 0

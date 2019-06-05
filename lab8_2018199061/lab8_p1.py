@@ -15,8 +15,3 @@ def resetValuesInPlace(L, threshold):
             L[i] = 0
     # return the mutated list
     return L
-
-
-d = [10,20,30,40,50,60,70,80,90]
-resetValuesInPlace(d,45)
-print(d)

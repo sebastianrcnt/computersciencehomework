@@ -1,0 +1,44 @@
+----------------------
+| x                  | row 0
+| x                  | row 1
+| x                  | row 2
+|                    | row 3
+|                    | row 4
+|                    | row 5
+|                    | row 6
+|                    | row 7
+|                    | row 8
+|                    | row 9
+|          xxx       | row 10
+|          x         | row 11
+|          xxx       | row 12
+|                    | row 13
+|                    | row 14
+|                    | row 15
+|                    | row 16
+|                    | row 17
+|                    | row 18
+|                    | row 19
+----------------------
+----------------------
+|                    | row 0
+|xxx                 | row 1
+|                    | row 2
+|                    | row 3
+|                    | row 4
+|                    | row 5
+|                    | row 6
+|                    | row 7
+|                    | row 8
+|           x        | row 9
+|          xx        | row 10
+|         x          | row 11
+|          xx        | row 12
+|           x        | row 13
+|                    | row 14
+|                    | row 15
+|                    | row 16
+|                    | row 17
+|                    | row 18
+|                    | row 19
+----------------------

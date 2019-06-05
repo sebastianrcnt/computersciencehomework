@@ -1,0 +1,3 @@
+in1.txt
+lorem ipsumin2.txt
+lorem ipsum
