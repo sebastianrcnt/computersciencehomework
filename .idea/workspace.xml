@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe4328a-56b4-47b4-9e16-768f42af1c04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/donghun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrixcalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/foo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/globals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_east_phase_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_east_phase_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_north_phase_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_north_phase_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_south_phase_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_south_phase_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_west_phase_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/dbm_west_phase_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/doboggi.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/game_over.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/ghost_phase_0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/ghost_phase_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/img/yum.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/lab12_p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/lab12_p4_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/lab12_p5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab12_2018199061/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab9_2018199061/stock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab11_2018199061/lab11_p1_eol.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p1_eol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab12_2018199061/lab12_p3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab12_2018199061/lab12_p3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +65,10 @@
       <find>print</find>
       <find>hand1</find>
       <find>rank_names</find>
+      <find>keyDict</find>
+      <find>encrypted_</find>
+      <find>decrypted_</find>
+      <find>'''</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -52,16 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab7_2018199061/lab7_p2.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p3.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p1_alt.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p2_alt.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p3_alt.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/p4-alt.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p5.py" />
-        <option value="$PROJECT_DIR$/lab6_2018199061/lab6_p5_alt.py" />
-        <option value="$PROJECT_DIR$/lab7_2018199061/lab7_p4.py" />
-        <option value="$PROJECT_DIR$/lab8_2018199061/lab8_p2.py" />
         <option value="$PROJECT_DIR$/lab8_2018199061/lab8_p4.py" />
         <option value="$PROJECT_DIR$/lab8_2018199061/lab8_p5.py" />
         <option value="$PROJECT_DIR$/lab8_2018199061/lab8_p3.py" />
@@ -103,14 +118,23 @@
         <option value="$PROJECT_DIR$/lab11_2018199061/lab11_p1.py" />
         <option value="$PROJECT_DIR$/donghun.py" />
         <option value="$PROJECT_DIR$/matrixcalc.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/foo.enc" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/lab12_p3.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/foo.txt" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/fraction_test.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/fraction.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/lab12_p4.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/lab12_p4_test.py" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/test.txt" />
+        <option value="$PROJECT_DIR$/lab12_2018199061/lab12_p5.py" />
+        <option value="$PROJECT_DIR$/lab9_2018199061/stock.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="y" value="23" />
-    <option name="width" value="960" />
-    <option name="height" value="989" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="137" />
+    <option name="width" value="1440" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,28 +145,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="cshomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cshomework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cshomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cshomework" type="462c0819:PsiDirectoryNode" />
-              <item name="lab11_2018199061" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cshomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cshomework" type="462c0819:PsiDirectoryNode" />
-              <item name="lab11_2018199061" type="462c0819:PsiDirectoryNode" />
-              <item name="lab11_2018199061" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,14 +155,16 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab12_2018199061" />
+      <recent name="$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab12_2018199061" />
       <recent name="$PROJECT_DIR$/lab11_2018199061/lab11_2018199061" />
       <recent name="$PROJECT_DIR$/lab11_2018199061" />
       <recent name="$PROJECT_DIR$/lab9_2018199061" />
       <recent name="$PROJECT_DIR$/lab9_2018199061/stack" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,8 +179,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrixcalc">
-    <configuration name="donghun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.stock">
+    <configuration name="fraction_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cshomework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab12_2018199061" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/donghun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab12_2018199061/lab12_p4_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab11_p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cshomework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11_2018199061" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab12_2018199061" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11_2018199061/lab11_p2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab12_2018199061/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab11_p2_GUI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab12_p3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cshomework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +230,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11_2018199061/lab11_2018199061" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab12_2018199061" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p2_GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab12_2018199061/lab12_p3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab11_p2_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lab12_p5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cshomework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11_2018199061" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab12_2018199061" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11_2018199061/lab11_p2_GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab12_2018199061/lab12_p5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrixcalc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cshomework" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab9_2018199061" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrixcalc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab9_2018199061/stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matrixcalc" />
-        <item itemvalue="Python.lab11_p2_GUI (1)" />
-        <item itemvalue="Python.donghun" />
-        <item itemvalue="Python.lab11_p2_GUI" />
-        <item itemvalue="Python.lab11_p2" />
+        <item itemvalue="Python.stock" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.lab12_p5" />
+        <item itemvalue="Python.fraction_test" />
+        <item itemvalue="Python.lab12_p3" />
       </list>
     </recent_temporary>
   </component>
@@ -321,13 +326,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="137" width="1440" height="823" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1564482" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20930232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.3978052" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -336,233 +341,36 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32784638" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.28317374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.33261803" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28530258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3978052" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32784638" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3322185" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last modification for submission" />
     <option name="LAST_COMMIT_MESSAGE" value="last modification for submission" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
-          <folding>
-            <element signature="e#17#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab7_2018199061/lab7_p1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/text1.txt" />
-    <entry file="file://$PROJECT_DIR$/lab9_2018199061/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/text_with_eol.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="8" column="647" selection-start-line="8" selection-start-column="647" selection-end-line="8" selection-end-column="647" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/e_text_with_eol.txt" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/new_text_with_eol.txt" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/new_text_no_eol.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/text_no_eol.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/new_text_no_eol2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/text_no_eol2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/cellular_automaton/CellularAutomatonTemplate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/cellular_automaton/SampleOutput.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p1_eol.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/turtlegui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="24" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/in1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/in2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/in3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/sparse_text/alice_tea_party.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/hiwc" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/word_count/WordCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Air_Pollution_Data.csv" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/cancer.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/air_pollution/CDC_Cigarette_Smoking_Data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/Lab11_src/air_pollution/Smoking_Cancer_Correlation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/hi.wc" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p1.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p2.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p2_GUI.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p3.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p4.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_p5.py" />
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/new_hi.txt" />
     <entry file="file://$PROJECT_DIR$/matrixcalc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -572,19 +380,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p1.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/Air_Pollution_Data.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -620,6 +415,240 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="668">
           <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/foo.enc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/foo.key">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/foo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_2018199061/lab7_p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="9" column="82" selection-start-line="9" selection-start-column="82" selection-end-line="9" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p1_alt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p2_alt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab6_2018199061/lab6_p3_alt.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <folding>
+            <element signature="e#1#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5_2018199061/lab5_p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7_2018199061/lab7_p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/HorseRace_Final.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab8_2018199061/lab8_p6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p1_eol.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1742">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p4_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab12_2018199061/lab12_p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="e#17#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10_2018199061/lab10_p4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11_2018199061/lab11_2018199061/lab11_p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab9_2018199061/lab9_p1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>
